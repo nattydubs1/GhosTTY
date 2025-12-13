@@ -1,2 +1,2 @@
 # GhosTTY
- Trying out different terminals
+ Trying out different terminals, not sure why 🤔 
